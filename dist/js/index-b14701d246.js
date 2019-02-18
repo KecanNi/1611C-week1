@@ -1,0 +1,1 @@
+"use strict";var a=1,b=10;function color(o,c){}console.log(a+b),color();
